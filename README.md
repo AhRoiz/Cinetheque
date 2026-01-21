@@ -81,10 +81,10 @@ Halaman profil menampilkan:
 
 ```bash
 # Clone repository
-git clone https://github.com/username/film-journal.git
+git clone https://github.com/AhRoiz/Cinetheque.git
 
 # Masuk ke direktori
-cd film-journal
+cd Cinetheque
 
 # Install dependencies
 npm install
